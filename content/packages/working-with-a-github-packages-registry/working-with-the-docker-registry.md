@@ -266,3 +266,5 @@ $ docker pull HOSTNAME/OWNER/REPOSITORY/IMAGE_NAME:TAG_NAME
 - "[AUTOTITLE](/packages/learn-github-packages/deleting-and-restoring-a-package)"
 
 {% endif %}  <!-- End of main versioning block -->
+#HelloWorld/All/Ai
+Auto mode is just an inscription, after the fact of the error fix it before it is too late
